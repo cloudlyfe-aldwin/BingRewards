@@ -1,4 +1,7 @@
-Current version 3.14.1
+Current version 3.14.2
+
+3.14.2  *) @cloudlyfe-aldwin, Fix unquoted variable string comparison bug.
+           Variable should be quoted to allow for empty value comparision.
 
 3.14.1  *) @amayer5125, Fix trim Bug.
            Should be .strip()
